@@ -1,0 +1,31 @@
+{
+  "name": "tailwindcss-sepia-mode",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin that adds variants for sepia mode",
+  "main": "index.js",
+  "homepage": "https://github.com/jnd0/tailwindcss-sepia-mode.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnd0/tailwindcss-sepia-mode.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "sepia-theme",
+    "sepia-mode",
+    "css",
+    "javascript"
+  ],
+  "author": "jnd0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnd0/tailwindcss-sepia-mode/issues"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.2.0"
+  }
+}
